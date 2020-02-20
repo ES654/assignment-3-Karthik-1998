@@ -10,3 +10,9 @@
 All the gif files are created and shown that while the number of iterations are incresing the mean square error decreases .
 This can be observed in the 3D surface plot and contour plot gifs.
 While the line plot gif shows it fits better with the data set while the iterations increases.
+
+
+
+References:
+
+1.http://louistiao.me/posts/notebooks/save-matplotlib-animations-as-gifs/
